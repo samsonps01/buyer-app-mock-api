@@ -1,13 +1,20 @@
 {
-  "09/05/2017" : {
+  "09-05-2017" : {
         "Manheim": ["Phoenix","Chicago","Huston"],
         "Adesa": ["San Jose","Denver","Austin"]
   },
-  "09/06/2017": {
+  "09-06-2017": {
         "Individual": ["Dallas","New York"]
   },
-  "09/08/2017": {
+  "09-08-2017": {
         "Manheim": ["Chandler","Boston"],
         "Individual": ["Boston","New York"]
+  },
+  "09-08-2017": {
+       "Manheim": ["Jersey","LA","Huston"],
+        "Adesa": ["Miami","Denver","Dallas"]
+  },
+  "09-11-2017": {
+    "Individual": ["Boston","New York"]
   }
 }
